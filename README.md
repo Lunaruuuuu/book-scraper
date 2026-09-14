@@ -30,17 +30,3 @@ Data hasil scraping dibersihkan sebelum disimpan sebagai data akhir. Proses clea
 * Menangani **data yang kosong** dengan nilai pengganti `Unknown`.
 
 Data hasil scraping disimpan sebagai `books_raw.csv`, sedangkan data setelah proses cleaning disimpan sebagai `books_clean.csv`.
-
-## 4. Screenshot
-
-### Sebelum Cleaning
-
-Screenshot isi file `books_raw.csv`:
-
-![Before Cleaning](screenshots/before-cleaning.png)
-
-### Setelah Cleaning
-
-Screenshot isi file `books_clean.csv`:
-
-![After Cleaning](screenshots/after-cleaning.png)
